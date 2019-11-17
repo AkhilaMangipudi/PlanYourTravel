@@ -3,6 +3,10 @@
 
 ### **How to Run?**
 Upload the _*PlanYourTravel.ipynb*_ file to Google Colab and simply run all the cells in order (top to bottom).
+Select Python 3 as the environment.
+
+### **Dataset**
+[Pickle file contatining the data - atis.pkl](https://github.com/AkhilaMangipudi/PlanYourTravel/blob/master/atis.pkl)
 
 ### **Results**
 
