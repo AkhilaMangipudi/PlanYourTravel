@@ -33,3 +33,9 @@ On an average, among all the experiments made, it has been observed that the fut
 | SimpleRNN                    | 90.12                        | 92.47                        |
 | LSTM                         | 93.06                        | 92.35                        |
 | Bidirectional LSTM           | 95.38                        | 95.49                        |
+
+### References
+
+- [Using Recurrent Neural Networks for Slot Filling in Spoken Language Understanding](https://ieeexplore.ieee.org/abstract/document/6998838)
+- [Sequential Convolutional Neural Networks for Slot Filling in Spoken Language Understanding](https://arxiv.org/abs/1606.07783)
+- Spoken Language Understanding Tutorial [Blog](https://chsasank.github.io/spoken-language-understanding.html) 
