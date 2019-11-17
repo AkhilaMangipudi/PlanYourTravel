@@ -8,7 +8,7 @@ Upload the _*PlanYourTravel.ipynb*_ file to Google Colab and simply run all the 
 
 ##### 1-D CNN Model
 
-
+![Screenshot](../master/1D_CNN_Results.png?raw=true)
 
 ##### 2-D CNN Model
 
