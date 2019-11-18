@@ -1,8 +1,13 @@
 # PlanYourTravel
 
+### **Team**
+- Aditya Kumar (227008652)
+- Anindita Mishra (527002315)
+- Kamala Akhila Mangipudi (627005193)
+- Patel Vihang (627006266)
 
 ### **How to Run?**
-Upload the _*PlanYourTravel.ipynb*_ file to Google Colab and simply run all the cells in order (top to bottom).
+Upload the _*PlanYourTravel.ipynb*_ file to [Google Colab](https://colab.research.google.com/) and simply run all the cells in order (top to bottom).
 Select Python 3 as the environment.
 
 ### **Dataset**
